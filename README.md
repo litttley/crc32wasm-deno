@@ -3,7 +3,7 @@
 ## 使用
 
 ```
-import  {crc32}  from "https://deno.land/x/crc32wasm_deno@v0.0.1/mod.ts.js";
+import  {crc32}  from "https://deno.land/x/crc32wasm_deno@v0.0.2/mod.ts.js";
 
 crc32("hello world")
 ```
