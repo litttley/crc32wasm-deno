@@ -1,0 +1,7 @@
+{
+    "tasks": {
+      "crc32_test": "deno test   -A   ./tests/crc32_test.js"
+    
+    }
+  }
+  
