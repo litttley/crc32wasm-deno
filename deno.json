@@ -2,7 +2,7 @@
   "name": "@littleyy/crc32wasm-deno",
   "version": "0.0.2",
   "license": "MIT",
-  "exports": "./mod.js",
+  "exports": "./mod.ts.js",
   "tasks": {
     "crc32_test": "deno test   -A   ./tests/crc32_test.js"
   }
